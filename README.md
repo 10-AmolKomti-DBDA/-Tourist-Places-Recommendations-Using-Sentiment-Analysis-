@@ -1,4 +1,4 @@
-# -Tourist-Places-Recommendations-Using-Sentiment-Analysis-
+# Tourist-Places-Recommendations-Using-Sentiment-Analysis
 
 This project provides personalized recommendations for tourist destinations based on sentiment analysis of online reviews. The system collects online reviews for different tourist destinations, analyzes the sentiments expressed in those reviews using machine learning algorithms, and generates recommendations for new destinations based on the user's preferred sentiment.
 
